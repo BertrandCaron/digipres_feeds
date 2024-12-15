@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>List of RSS feeds from digital preservation blogs</title>
+  </head>
+  <body>
+    <outline text="Digital preservation" title="Digital preservation">
+      <outline text="BITS BLOG ✴ Ashley Blewer" title="BITS BLOG ✴ Ashley Blewer" type="rss" xmlUrl="https://bits.ashleyblewer.com/feed.xml"/>
+      <outline text="bitsgalore.org" title="bitsgalore.org" type="rss" xmlUrl="https://www.bitsgalore.org/rss.xml"/>
+      <outline text="anjackson.net" title="anjackson.net" type="rss" xmlUrl="https://anjackson.net/feed.xml"/>
+      <outline text="Obsolete Thor" title="Obsolete Thor" type="rss" xmlUrl="https://preservation.tylerthorsted.com/feed/"/>
+      <outline text="Blogs Archive - Open Preservation Foundation" title="Blogs Archive - Open Preservation Foundation" type="rss" xmlUrl="https://openpreservation.org/blogs/rss"/>
+      <outline text="All - Digital Preservation Coalition" title="All - Digital Preservation Coalition" type="rss" xmlUrl="https://www.dpconline.org/blog/all?format=feed&amp;type=rss"/>
+      <outline text="Digital preservation" title="Digital preservation" type="rss" xmlUrl="https://digitalpreservation.fi/en/rss.xml"/>
+      <outline text="The Future Is Now" title="The Future Is Now" type="rss" xmlUrl="https://www.mistys-internet.website/blog/atom.xml"/>
+      <outline text="Fixity Check" title="Fixity Check" type="rss" xmlUrl="https://fixity-check.blogs.archives.gov/feed/"/>
+      <outline text="An Old Hand Digital" title="An Old Hand Digital" type="rss" xmlUrl="https://anoldhanddigital.wordpress.com/feed/"/>
+      <outline text="Dust 2 Digits" title="Dust 2 Digits" type="rss" xmlUrl="https://www.dust2digits.uk/feed.xml"/>
+      <outline text="digit archive" title="digit archive" type="rss" xmlUrl="https://blog.matthewburgess.net/feeds/posts/default"/>
+      <outline text="alexwlchan" title="alexwlchan" type="rss" xmlUrl="https://alexwlchan.net/atom.xml"/>
+      <outline text="The Signal" title="The Signal" type="rss" xmlUrl="https://blogs.loc.gov/thesignal/feed/"/>
+      <outline text="Digital Preservation is People" title="Digital Preservation is People" type="rss" xmlUrl="https://dpip.writeas.com/feed/"/>
+      <outline text="Wolf Hall: The Mirror and the Light in six documents – The National Archives" title="Wolf Hall: The Mirror and the Light in six documents – The National Archives" type="rss" xmlUrl="https://blog.nationalarchives.gov.uk/rss"/>
+      <outline text="Modernisation et archives" title="Modernisation et archives" type="rss" xmlUrl="https://siaf.hypotheses.org/feed"/>
+      <outline text="DSHR's Blog" title="DSHR's Blog" type="rss" xmlUrl="https://blog.dshr.org/feeds/posts/default"/>
+      <outline text="Digital Preservation at Cambridge University Libraries - Medium" title="Digital Preservation at Cambridge University Libraries - Medium" type="rss" xmlUrl="https://digitalpreservation-blog.lib.cam.ac.uk/feed"/>
+      <outline text="Digital Preservation Matters" title="Digital Preservation Matters" type="rss" xmlUrl="http://preservationmatters.blogspot.com/feeds/posts/default"/>
+    </outline>
+  </body>
+</opml>
