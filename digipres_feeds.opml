@@ -25,6 +25,7 @@
       <outline text="DSHR's Blog" title="DSHR's Blog" type="rss" xmlUrl="https://blog.dshr.org/feeds/posts/default"/>
       <outline text="Digital Preservation at Cambridge University Libraries - Medium" title="Digital Preservation at Cambridge University Libraries - Medium" type="rss" xmlUrl="https://digitalpreservation-blog.lib.cam.ac.uk/feed"/>
       <outline text="Digital Preservation Matters" title="Digital Preservation Matters" type="rss" xmlUrl="http://preservationmatters.blogspot.com/feeds/posts/default"/>
+      <outline text="ross spencer :: exponentialdecay [-dot-] co [-dot-] uk :: blog" title="ross spencer :: exponentialdecay [-dot-] co [-dot-] uk :: blog" type="rss" xmlUrl="http://exponentialdecay.co.uk/blog/feed/"/>
     </outline>
   </body>
 </opml>
