@@ -28,5 +28,6 @@
       <outline text="ross spencer :: exponentialdecay [-dot-] co [-dot-] uk :: blog" title="ross spencer :: exponentialdecay [-dot-] co [-dot-] uk :: blog" type="rss" xmlUrl="http://exponentialdecay.co.uk/blog/feed/"/>
       <outline text="Martin's Blog on martin.hoppenheit.info" title="Martin's Blog on martin.hoppenheit.info" type="rss" xmlUrl="http://martin.hoppenheit.info/blog/index.xml"/>
       <outline text="LITERARY MACHINES" title="LITERARY MACHINES" type="rss" xmlUrl="https://literarymachin.es/atom.xml" htmlUrl="https://literarymachin.es/"/>    </outline>
+      <outline text="Simon P Wilson" title="Simon P Wilson" type="rss" xmlUrl="https://simonpwilson.com/feed/" htmlUrl="https://simonpwilson.com/"/>
   </body>
 </opml>
